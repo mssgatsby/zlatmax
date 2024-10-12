@@ -2,12 +2,15 @@ import Footer from "../../components/footer";
 import Header from "../../components/header";
 import Nav from "../../components/nav";
 import "./page3.css";
+import Article from "../../components/article";
+import Card from "../../components/card";
+import ProductCard from "../../components/productcard";
 
 export default function Page3() {
   return (
     <>
       <Nav />
-      <Header />
+
       <div className="articles">
         <a href="">
           <Article />
