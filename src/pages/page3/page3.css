@@ -1,0 +1,29 @@
+.news {
+  background-image: url("./images/Mask Group (5).png");
+  color: white;
+  background-size: cover;
+  padding: 50px 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.articles {
+  padding: 20px 50px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.cards {
+  display: flex;
+  justify-content: space-around;
+}
+.divident {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 50px;
+}
+.product-cards {
+  display: flex;
+  padding: 20px 50px;
+  gap: 20px;
+  justify-content: space-between;
+}

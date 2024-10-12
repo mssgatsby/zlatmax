@@ -1,0 +1,32 @@
+.navUp {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 50px;
+  background-color: black;
+  color: white;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+li {
+  list-style: none;
+}
+.navMid {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+}
+.navMid input {
+  padding: 10px;
+}
+.navLow {
+  padding: 20px 50px;
+  background-color: black;
+  color: white;
+}
+.navLow ul {
+  justify-content: space-between;
+}

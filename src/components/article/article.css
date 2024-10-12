@@ -1,0 +1,12 @@
+.article {
+  box-shadow: 1px 1px 15px 5px grey;
+  display: inline-block;
+}
+.article .text {
+  margin: 20px;
+  font-size: smaller;
+}
+.article img {
+  object-fit: cover;
+  width: 100%;
+}

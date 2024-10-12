@@ -1,0 +1,26 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin: 50px;
+}
+.divident {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 50px;
+}
+.product-cards {
+  display: flex;
+  padding: 20px 50px;
+  gap: 20px;
+  justify-content: space-between;
+}
+.news {
+  background-image: url("./images/Mask Group (5).png");
+  color: white;
+  background-size: cover;
+  padding: 50px 50px;
+  display: flex;
+  justify-content: space-between;
+}

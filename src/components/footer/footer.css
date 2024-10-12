@@ -1,0 +1,15 @@
+.up {
+  background-image: url("./images/Mask Group (6).png");
+  margin: 20px 0;
+  margin-bottom: 0;
+  color: white;
+  padding: 50px;
+}
+.down {
+  background-color: black;
+  color: white;
+  padding: 50px;
+}
+.bottom {
+  display: flex;
+}

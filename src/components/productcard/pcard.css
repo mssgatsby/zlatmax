@@ -1,0 +1,17 @@
+.card {
+  box-shadow: 1px 1px 15px 5px grey;
+  display: inline-block;
+  margin: 10px;
+  padding: 20px;
+  background-color: white;
+}
+.escape {
+  display: flex;
+  justify-content: space-between;
+}
+.escape .img img {
+  padding: 0 10px;
+}
+hr {
+  margin: 10px 0;
+}
